@@ -15,5 +15,7 @@ params.ShowPostNavLinks = true
 params.ShowRssButtonInSectionTermList = true
 params.assets.disableHLJS = true
 
+params.custom_css = ["css/custom.css"]
+
 params.Author = "Lukas Ertl"
 params.Email = "le@syslog.at"
