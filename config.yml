@@ -13,8 +13,6 @@ params:
   DateFormat: "Mon, 02 Jan 2006"
   ShowPostNavLinks: true
   ShowRssButtonInSectionTermList: true
-  custom_css: 
-    - css/custom.css
   Author: "Lukas Ertl"
   Email: "le@syslog.at"
   assets:
