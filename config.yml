@@ -1,6 +1,6 @@
 # Base URL used when generating links to your pages
 # Set to the URL for your site
-baseURL: "https://example.com"
+baseURL: "https://blog.syslog.at"
 # Basic metadata configuration for your blog.
 title: "This is just a test."
 languageCode: "en-US"
