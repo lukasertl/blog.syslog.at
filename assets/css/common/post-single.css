@@ -5,6 +5,10 @@
 }
 */
 
+.post-header {
+    margin-bottom: var(--content-gap)
+}
+
 .post-title {
     margin-bottom: 2px;
 }
