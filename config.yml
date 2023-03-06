@@ -13,6 +13,7 @@ params:
   DateFormat: "Mon, 02 Jan 2006"
   ShowPostNavLinks: true
   ShowRssButtonInSectionTermList: true
+  ShowFullTextinRSS: true
   Author: "Lukas Ertl"
   Email: "le@syslog.at"
   assets:
