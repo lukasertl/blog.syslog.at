@@ -1,7 +1,6 @@
 ---
 title: "Floppy Disks"
 date: 2023-03-07T08:55:34+01:00
-draft: true
 ---
 Today, via [Hacker News](https://news.ycombinator.com/item?id=35040547),
 I came across a Wired article about [why the floppy disk just won't
