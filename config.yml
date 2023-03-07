@@ -2,7 +2,7 @@
 # Set to the URL for your site
 baseURL: "https://blog.syslog.at"
 # Basic metadata configuration for your blog.
-title: "This is just a test."
+title: "This Is Just a Test."
 languageCode: "en-US"
 paginate:  5
 theme: "PaperMod"
