@@ -37,13 +37,13 @@ With the help of pages like
 I started the recovery process, shutting down the PostgreSQL service,
 starting the affected database in single-user mode and vacuuming it.  Of
 course, as this was one of our larger databases with almost 1 TB, it
-would take hours and hours to finish.  Since I had no progress meter I
+would take hours after hours to finish.  Since I had no progress meter I
 resorted to checking the modification dates of the database files
-themselves, to give me an estimated how long we would be offline (hint:
+themselves, to give me an estimate how long we would be offline (hint:
 *very* long).
 
-Naturally, the vacuuming would generate lots of WALs, so of course I ran
-into disk space problems and had to start all over again.
+Naturally, the vacuuming would generate lots of WALs, so *of course* I
+ran into disk space problems and had to start all over again.
 
 While I was waiting for the vacuum to finish I tried to find out how in
 the world this was able to happen at all.  Basically if your autovacuum
